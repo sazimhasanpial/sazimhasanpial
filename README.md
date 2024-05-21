@@ -1,26 +1,75 @@
-### Hi there 👋, I'm Sazim Hasan Pial
-#### Programeer and Devoloper.
-![Programeer and Devoloper.](https://scontent.fzyl2-2.fna.fbcdn.net/v/t39.30808-6/391623937_656721863236561_6956107632257213957_n.jpg?stp=dst-jpg_p600x600&_nc_cat=104&ccb=1-7&_nc_sid=783fdb&_nc_ohc=IKu-_qBXOtQAX_m-C1G&_nc_ht=scontent.fzyl2-2.fna&oh=00_AfB_YFBL_ZHIiIpqhzWHhuwFEVcDmM7bAJCX169HRxblJw&oe=65BE73A9)
+<div align="center">
+  <img height="150" src="https://i.imghippo.com/files/POwSi1716313238.jpg"  />
+</div>
 
-Passionate programmer and developer with a knack for problem-solving and a love for clean, efficient code. Specializing in [insert your areas of expertise or programming languages], I thrive in collaborative environments and enjoy contributing to open-source projects. Constantly learning and exploring new technologies to expand my skill set. Let's connect and build something awesome together!
+###
 
-Skills: C++
+<div align="center">
+  <a href="www.linkedin.com/in/SazimHasanPial" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/sazimhasanpial" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="https://www.instagram.com/sazimhasanpial" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/profile/sajimhasan12" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100066962601749&mibextid=LQQJ4d" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  </a>
+</div>
 
-- 🌱 I’m currently learning C++ 
-- 👯 I’m looking to collaborate on GitHub 
-- 📫 How to reach me: Facebook,Email 
-- 😄 Pronouns: He/Him 
+###
 
+<h1 align="center">Hey there 👋</h1>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sazimhasanpial)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/pizza.khabo/)  
+###
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+<h3 align="left">👩‍💻  I am currently an undergraduate student in Computer Science and Engineering at the American International University-Bangladesh (AIUB). With a strong proficiency in C and C++, I have developed a solid foundation in programming. My passion for solving complex problems drives my continuous learning and application of advanced concepts in computer science.<br><br>I have a keen interest in data structures, which I believe are fundamental to efficient algorithm design and performance optimization. Additionally, I am enthusiastic about the fields of Machine Learning and Artificial Intelligence, exploring their potential to revolutionize technology and solve real-world challenges. My academic and project experiences have equipped me with the skills to tackle diverse problems and innovate solutions in these exciting domains.</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sazimhasanpial)](https://github.com/anuraghazra/github-readme-stats)
+###
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sazimhasanpial&show_icons=true)  
+<p align="left">I'm  MD SAZIM HASAN from Bangladesh.<br><br>-🎓I’m Studying at <br>American International University-Bangladesh.<br><br>- 📚 I'm currently learning  Java and OOB.<br><br>- ⚡ In my free time I love Coding.</p>
 
-![GitHub metrics](https://metrics.lecoq.io/sazimhasanpial)  
+###
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=sazimhasanpial)  
+<h3 align="left">🛠 Language and tools</h3>
 
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<p align="left">Hello World!!</p>
+
+###
